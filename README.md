@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mugmun
-- 👀 I’m interested in ... your mother
-- 🌱 I’m currently learning ... what a computer is
-- 💞️ I’m looking to collaborate on ... deez
-- 📫 How to reach me ... don't
+- 👀 I’m interested in ... fire trucks and monster trucks
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ... yo mama
+- 📫 How to reach me ... with your arms
 
 <!---
 mugmun/mugmun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
